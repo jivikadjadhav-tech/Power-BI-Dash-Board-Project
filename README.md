@@ -17,4 +17,5 @@ The dataset contains aviation industry records for flights such as Unique flight
 • Overall, 99% of flights are delayed across regions, and international flights show the highest delay rate.
 • Monthly profit analysis reveals that domestic routes consistently generate higher profits compared to international routes.
 • Some routes contribute significantly more profit, helping identify high-value routes for airline operations. Certain routes such as DFW–SEA and SFO–TYO contribute significantly to overall profit.
-https://github.com/jivikadjadhav-tech/Power-BI-Dash-Board-Project/blob/a9110a2c03271fb60300460f49036f1b317dd8ae/airline%20performance%20dashboard.jfif
+<br>
+![image alt](https://github.com/jivikadjadhav-tech/Power-BI-Dash-Board-Project/blob/a9110a2c03271fb60300460f49036f1b317dd8ae/airline%20performance%20dashboard.jfif)
